@@ -625,13 +625,14 @@ color: blueviolet;
 
 .navfont{
     font-size: 100%;
-    
+    width:25%;
+    margin-left:-14%
    -webkit-box-shadow: 0px 0px 8px 3px rgba(0,0,0,0.47)
   
 }
 
 .navfont ul{
-    margin-left: -16%;
+    margin-left: -14%;
     width: 20%;
    
    
